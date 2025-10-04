@@ -57,6 +57,8 @@ Esta seção abordou os "blocos de construção" essenciais para qualquer aplica
 
 A seguir um desenho do fluxo simples de uma aplicação que recebe um arquivo do usuário. Esta arquitetura demonstra como os serviços estudados se conectam.
 
+![Minha Arquitetura AWS](./assets/desenho-arquitetura.png)
+
 ### Explicação do Fluxo:
 
 1.  **O Usuário (Actor):** O processo inicia com um usuário enviando um arquivo a partir de sua estação de trabalho.
